@@ -35,3 +35,4 @@ return 0;
 double function(double k, double alpha){
    return sin(k*alpha)/sin(alpha);
 }
+fvfbrgtb
